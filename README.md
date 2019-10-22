@@ -19,7 +19,7 @@ Fonte da funcao https://stackoverflow.com/questions/14879204/how-to-escape-a-bac
 
 x1="\\str"
 x2="\\\\str"
-
+x3 <- "\\my\\strin\\g\\with\\slashes"
 tirar_backslash(x1)
 tirar_backslash(x2)
 
